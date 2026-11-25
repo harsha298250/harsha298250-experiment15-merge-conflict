@@ -4,6 +4,10 @@
 Git Branching and Conflict Resolution
 
 ## Feature
+This project demonstrates the feature-update branch.
+
+## Developer
+Feature branch developer
 This project demonstrates the main branch changes.
 
 ## Developer
