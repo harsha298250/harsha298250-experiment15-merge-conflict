@@ -8,5 +8,3 @@ This project demonstrates the main branch changes.
 
 ## Developer
 Main branch developer
-
-DON'T DISTURB ME AGAIN
